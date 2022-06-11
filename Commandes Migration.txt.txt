@@ -1,0 +1,3 @@
+Enable-Migrations -ContextTypeName ouail_barni_code_first.Model1
+add-migration first -IgnoreChanges
+update-database
